@@ -1,4 +1,4 @@
-const calculatorApp = '/Users/uyanik/Desktop/Automation Tutorial/Challenge/app/Calculator_2.0.apk';
+const calculatorApp = './app/Calculator_2.0.apk';
 
 const capabilities = {
   platformName: 'Android',
